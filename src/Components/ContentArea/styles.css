@@ -1,0 +1,23 @@
+.right-sec {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  min-height: 100vh;
+  padding: 10px;
+  gap: 10px;
+  background: #f7f7f7;
+}
+
+.second-sec {
+  display: flex;
+  width: 100%;
+}
+.left-sec {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  min-height: 100vh;
+  padding: 14px;
+  gap: 10px;
+  background: #f7f7f7;
+}

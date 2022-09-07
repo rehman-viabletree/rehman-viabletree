@@ -1,0 +1,27 @@
+.navbar-cont {
+    display: flex;
+    position: fixed;
+    min-width: 100%;
+    background: #fff;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 60px;
+    border-bottom: 1px solid #eaeef0;
+    padding: 0;
+    height: fit-content;
+    z-index: 1;
+  }
+  
+  .title {
+    color: #01bca6;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    margin: 0;
+  }
+  .logo-cont {
+    border-right: 1px solid #eaeef0;
+    min-height: 100%;
+    padding: 8px 0 8px 0;
+    width: 15%;
+  }
